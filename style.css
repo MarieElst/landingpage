@@ -73,3 +73,11 @@ a:hover {
 	background-size: cover; 
 }
 
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+}
+
